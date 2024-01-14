@@ -3,11 +3,19 @@
     <div class="row text-center p-5">
       <h1>Berita Terbaru</h1>
       <p>Temukan berita terkini tentang ekonomi syariah!</p>
-      <div class="content-tag">
-        <button type="button" class="btn btn-secondary">Trending Topik Sosial Media</button>
-        <button type="button" class="btn btn-secondary">Hukum dan Regulasi Syariah</button>
-        <button type="button" class="btn btn-secondary">Ekonomi Syariah</button>
-        <button type="button" class="btn btn-secondary">Bisnis Syariah</button>
+      <div class="content-tag justify-content-between row">
+        <div class="col">
+          <button type="button" class="btn btn-secondary">Trending Topik Sosial Media</button>
+        </div>
+        <div class="col">
+          <button type="button" class="btn btn-secondary m">Hukum dan Regulasi Syariah</button>
+        </div>
+        <div class="col">
+          <button type="button" class="btn btn-secondary">Ekonomi Syariah</button>
+        </div>
+        <div class="col">
+          <button type="button" class="btn btn-secondary">Bisnis Syariah</button>
+        </div>
       </div>
     </div>
     <div class="row">
